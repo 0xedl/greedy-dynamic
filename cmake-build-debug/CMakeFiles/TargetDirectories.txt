@@ -1,0 +1,3 @@
+/Users/edlang/Desktop/School/COP3530/FoodStack/Greedy_Dynamic/cmake-build-debug/CMakeFiles/Greedy_Dynamic.dir
+/Users/edlang/Desktop/School/COP3530/FoodStack/Greedy_Dynamic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edlang/Desktop/School/COP3530/FoodStack/Greedy_Dynamic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
